@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/03-04Maven/maven-project.iml" filepath="$PROJECT_DIR$/itcast/03-04Maven/maven-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/04-01Spring/spring_18_aop_quickstart/spring_18_aop_quickstart.iml" filepath="$PROJECT_DIR$/itcast/04-01Spring/spring_18_aop_quickstart/spring_18_aop_quickstart.iml" />
     </modules>
   </component>
 </project>

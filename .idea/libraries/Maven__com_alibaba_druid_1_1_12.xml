@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba:druid:1.1.12" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.alibaba" artifactId="druid" version="1.1.12" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../02Software/apache-maven-3.6.1/mvn_resp/com/alibaba/druid/1.1.12/druid-1.1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../02Software/apache-maven-3.6.1/mvn_resp/com/alibaba/druid/1.1.12/druid-1.1.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../02Software/apache-maven-3.6.1/mvn_resp/com/alibaba/druid/1.1.12/druid-1.1.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
